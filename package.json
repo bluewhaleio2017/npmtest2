@@ -1,0 +1,22 @@
+{
+  "name": "npmtest2",
+  "version": "1.1.0",
+  "description": "npm project interacting with jfrog and jenkins",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluewhaleio2017/npmtest2.git"
+  },
+  "author": "bluewhaleio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluewhaleio2017/npmtest2/issues"
+  },
+  "homepage": "https://github.com/bluewhaleio2017/npmtest2#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
